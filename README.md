@@ -7,9 +7,9 @@
 > * 类 HRequestPermissions(权限申请和检查)
 > * 类 NetWorkUtil(网络类型获取和检查)
 
-![最新版本](https://img.shields.io/badge/Maven-version%201.0.0-brightgreen.svg) 
+![最新版本](https://img.shields.io/badge/Maven-version%201.0.1-brightgreen.svg) 
 
-**使用:**`compile 'com.chaoqianhong.NetWorkPermission:mplibrary:1.0.0'`
+**使用:**`compile 'com.chaoqianhong.NetWorkPermission:mplibrary:version'`
 
 
 
